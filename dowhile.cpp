@@ -1,0 +1,17 @@
+#include<stdio.h>
+//do while
+int main(){
+
+int i=10;
+do{
+	printf("%d\n",i);
+	i--;
+	
+}while(i<10&&i>0);
+
+return 0;
+
+
+
+
+}
